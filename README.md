@@ -1,2 +1,2 @@
-# zrodamp.github.io
-website for zrodamp
+# zerodamp.github.io
+website for zerodamp
